@@ -1,0 +1,4 @@
+LIBRARY DllHook1
+EXPORTS
+	_doInstallHook @1
+	_doRemoveHook @2
